@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "776181536663",
+    "project_id": "firstfirebase-170e4",
+    "storage_bucket": "firstfirebase-170e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776181536663:android:3d872a10e1d18490b616d2",
+        "android_client_info": {
+          "package_name": "com.example.businessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776181536663-jers1dt2blusia8ldvk43o82u6r8pkfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sfkfg1OMTGiHNl0RvJ_0_qVDqL7MqBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776181536663-jers1dt2blusia8ldvk43o82u6r8pkfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776181536663:android:04aa4f1ad89e20abb616d2",
+        "android_client_info": {
+          "package_name": "com.example.keeonotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776181536663-jers1dt2blusia8ldvk43o82u6r8pkfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8sfkfg1OMTGiHNl0RvJ_0_qVDqL7MqBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776181536663-jers1dt2blusia8ldvk43o82u6r8pkfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
